@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/star-wars-banner.gif" alt="Star Wars" width="700" />
-
-<br /><br />
-
 <img src="https://i.postimg.cc/yY5cvK8j/IMG-20260422-220609.jpg" alt="Jonatha Dantas" width="160" style="border-radius: 50%; border: 4px solid #22d3ee;" />
 
 # Olá, eu sou o Dantas 👋
@@ -84,10 +80,7 @@ QA  →  Cypress  →  Automação E2E  →  Validação de fluxos  →  Deploy 
 
 <div align="center">
 
-<img src="./assets/star-wars-footer.gif" alt="Star Wars Lightsaber" width="200" />
-
-*"Testar não é só encontrar bugs — é garantir que o produto entrega o que promete."*  
-*"Que a Força esteja com você."* ⚔️
+*"Testar não é só encontrar bugs — é garantir que o produto entrega o que promete."*
 
 **Obrigado pela visita!** ⭐
 
