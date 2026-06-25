@@ -80,6 +80,10 @@ QA  →  Cypress  →  Automação E2E  →  Validação de fluxos  →  Deploy 
 
 <div align="center">
 
+<img src="./assets/footer.gif" alt="GIF" width="300" />
+
+<br /><br />
+
 **Obrigado pela visita!** ⭐
 
 </div>
