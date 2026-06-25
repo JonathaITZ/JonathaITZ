@@ -21,11 +21,12 @@ Transformo cenários reais de uso em automações que validam fluxos, reduzem ri
 
 ## Sobre mim
 
-Sou profissional de **Quality Assurance** com experiência em **automação de testes E2E**, **testes funcionais** e **validação de fluxos críticos**.  
-Gosto de transformar regras de negócio e jornadas do usuário em suítes de teste confiáveis, com evidências claras e foco em prevenir falhas antes do deploy.
+Atuo atualmente como **Suporte Avançado** e estou em transição para a área de **Quality Assurance**, com foco em me tornar um profissional **QA Júnior**.  
+Venho estudando e praticando **automação de testes E2E**, **testes funcionais** e **validação de fluxos críticos**, transformando regras de negócio e jornadas do usuário em suítes de teste com evidências claras.
 
-- 🔭 Atualmente explorando **Cypress**, **CI/CD** e boas práticas de QA
-- 🌱 Sempre aprendendo mais sobre **automação**, **Python** e **Selenium**
+- 🔭 Atualmente estudando **Cypress**, **CI/CD** e boas práticas de QA
+- 🌱 Em constante aprendizado sobre **automação**, **Python** e **Selenium**
+- 💼 Experiência em **suporte avançado**, o que me ajuda a entender melhor o usuário e os fluxos reais do sistema
 - 💡 Acredito que testes bem escritos economizam tempo e aumentam a confiança no deploy
 - 📫 Me encontre aqui no GitHub ou no LinkedIn
 
