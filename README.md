@@ -4,10 +4,10 @@
 
 # Olá, eu sou o Dantas 👋
 
-**QA · Automação de Testes · Front-end**
+**QA · Automação de Testes · Quality Assurance**
 
-Desenvolvedor focado em qualidade de software e experiências web de alta performance.  
-Uno design limpo com código confiável — do teste automatizado ao produto final.
+Profissional de QA focado em garantir a qualidade de software com testes confiáveis e bem estruturados.  
+Transformo cenários reais de uso em automações que validam fluxos, reduzem riscos e aumentam a confiança em cada entrega.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Abrir_Site-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://ultimo-portifolio.vercel.app)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11D7m-Ud1K5ti5qkpV5xEtcR9O0hXGSAL/view?usp=sharing)
@@ -21,8 +21,8 @@ Uno design limpo com código confiável — do teste automatizado ao produto fin
 
 ## Sobre mim
 
-Sou profissional de **Quality Assurance** com experiência em **automação de testes E2E** e interesse em **desenvolvimento front-end**.  
-Gosto de transformar cenários reais de uso em suítes de teste confiáveis e de construir interfaces que fazem sentido para quem usa.
+Sou profissional de **Quality Assurance** com experiência em **automação de testes E2E**, **testes funcionais** e **validação de fluxos críticos**.  
+Gosto de transformar regras de negócio e jornadas do usuário em suítes de teste confiáveis, com evidências claras e foco em prevenir falhas antes do deploy.
 
 - 🔭 Atualmente explorando **Cypress**, **CI/CD** e boas práticas de QA
 - 🌱 Sempre aprendendo mais sobre **automação**, **Python** e **Selenium**
@@ -71,7 +71,7 @@ Gosto de transformar cenários reais de uso em suítes de teste confiáveis e de
 ## Atividade recente
 
 ```text
-QA  →  Cypress  →  Automação E2E  →  Front-end  →  Deploy com confiança
+QA  →  Cypress  →  Automação E2E  →  Validação de fluxos  →  Deploy com confiança
 ```
 
 ---
