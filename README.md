@@ -84,7 +84,7 @@ QA  →  Cypress  →  Automação E2E  →  Validação de fluxos  →  Deploy 
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Lightsaber" width="120" />
+<img src="https://media.giphy.com/media/UOzeotiOiLKoU/giphy.gif" alt="Darth Vader" width="200" />
 
 *"Testar não é só encontrar bugs — é garantir que o produto entrega o que promete."*  
 *"Que a Força esteja com você."* ⚔️
