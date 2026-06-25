@@ -80,8 +80,6 @@ QA  →  Cypress  →  Automação E2E  →  Validação de fluxos  →  Deploy 
 
 <div align="center">
 
-*"Testar não é só encontrar bugs — é garantir que o produto entrega o que promete."*
-
 **Obrigado pela visita!** ⭐
 
 </div>
