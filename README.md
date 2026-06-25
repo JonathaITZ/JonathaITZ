@@ -48,10 +48,9 @@ Gosto de transformar regras de negócio e jornadas do usuário em suítes de tes
 
 | Projeto | Descrição | Repositório |
 | --- | --- | --- |
-| 🛒 **E-commerce** | Plataforma completa com vitrine para clientes e painel administrativo para lojistas | Em desenvolvimento |
-| 🤖 **Assistente LinkedIn** | Automação de candidaturas simplificadas para otimizar a busca por vagas | Em desenvolvimento |
-| 🧪 **Cypress — Sauce Demo** | Suíte E2E com login e carrinho no Swag Labs | [testes-automatizados-cypress](https://github.com/JonathaITZ/testes-automatizados-cypress) |
+| 🧪 **Cypress — Sauce Demo** | Suíte E2E com login (sucesso e erro) e fluxo de carrinho no Swag Labs | [testes-automatizados-cypress](https://github.com/JonathaITZ/testes-automatizados-cypress) |
 | 🧪 **Cypress — OrangeHRM** | Fluxos de login, segurança, PIM e CRUD no ambiente demo | [cenario-de-teste-2](https://github.com/JonathaITZ/cenario-de-teste-2) |
+| 🐍 **Automação QA — Garantia** | Teste automatizado com Python e Selenium, validação de garantia e relatório .txt | [QA_testeautomatizado](https://github.com/JonathaITZ/QA_testeautomatizado) |
 
 ---
 
