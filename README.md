@@ -59,14 +59,16 @@ Venho estudando e praticando **automação de testes E2E**, **testes funcionais*
 
 ---
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JonathaITZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaITZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JonathaITZ&show_icons=true&hide_border=true&count_private=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117&border_radius=12&rank_icon=grade&include_all_commits=true" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaITZ&layout=donut&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas&title_color=22d3ee&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&donut=true" alt="Linguagens mais usadas" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaITZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=JonathaITZ&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Sequência de contribuições" />
 
 </div>
 
