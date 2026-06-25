@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/13vEn3ccsfmEKk/giphy.gif" alt="Star Wars Hyperspace" width="700" />
+
+<br /><br />
+
 <img src="https://i.postimg.cc/yY5cvK8j/IMG-20260422-220609.jpg" alt="Jonatha Dantas" width="160" style="border-radius: 50%; border: 4px solid #22d3ee;" />
 
 # Olá, eu sou o Dantas 👋
@@ -78,7 +82,10 @@ QA  →  Cypress  →  Automação E2E  →  Validação de fluxos  →  Deploy 
 
 <div align="center">
 
-*"Testar não é só encontrar bugs — é garantir que o produto entrega o que promete."*
+<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Lightsaber" width="120" />
+
+*"Testar não é só encontrar bugs — é garantir que o produto entrega o que promete."*  
+*"Que a Força esteja com você."* ⚔️
 
 **Obrigado pela visita!** ⭐
 
