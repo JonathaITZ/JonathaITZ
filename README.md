@@ -1,0 +1,87 @@
+<div align="center">
+
+<img src="https://i.postimg.cc/yY5cvK8j/IMG-20260422-220609.jpg" alt="Jonatha Dantas" width="160" style="border-radius: 50%; border: 4px solid #22d3ee;" />
+
+# Olá, eu sou o Dantas 👋
+
+**QA · Automação de Testes · Front-end**
+
+Desenvolvedor focado em qualidade de software e experiências web de alta performance.  
+Uno design limpo com código confiável — do teste automatizado ao produto final.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ultimo--portifolio-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonathaITZ/Ultimo-portifolio)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11D7m-Ud1K5ti5qkpV5xEtcR9O0hXGSAL/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-dantas)
+
+📍 João Pessoa, PB · 💼 Softcom Tecnologia
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou profissional de **Quality Assurance** com experiência em **automação de testes E2E** e interesse em **desenvolvimento front-end**.  
+Gosto de transformar cenários reais de uso em suítes de teste confiáveis e de construir interfaces que fazem sentido para quem usa.
+
+- 🔭 Atualmente explorando **Cypress**, **CI/CD** e boas práticas de QA
+- 🌱 Sempre aprendendo mais sobre **automação**, **Python** e **Selenium**
+- 💡 Acredito que testes bem escritos economizam tempo e aumentam a confiança no deploy
+- 📫 Me encontre aqui no GitHub ou no LinkedIn
+
+---
+
+## Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Repositório |
+| --- | --- | --- |
+| 🛒 **E-commerce** | Plataforma completa com vitrine para clientes e painel administrativo para lojistas | Em desenvolvimento |
+| 🤖 **Assistente LinkedIn** | Automação de candidaturas simplificadas para otimizar a busca por vagas | Em desenvolvimento |
+| 🧪 **Cypress — Sauce Demo** | Suíte E2E com login e carrinho no Swag Labs | [testes-automatizados-cypress](https://github.com/JonathaITZ/testes-automatizados-cypress) |
+| 🧪 **Cypress — OrangeHRM** | Fluxos de login, segurança, PIM e CRUD no ambiente demo | [cenario-de-teste-2](https://github.com/JonathaITZ/cenario-de-teste-2) |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JonathaITZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaITZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathaITZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Atividade recente
+
+```text
+QA  →  Cypress  →  Automação E2E  →  Front-end  →  Deploy com confiança
+```
+
+---
+
+<div align="center">
+
+*"Testar não é só encontrar bugs — é garantir que o produto entrega o que promete."*
+
+**Obrigado pela visita!** ⭐
+
+</div>
