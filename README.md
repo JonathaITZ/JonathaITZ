@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/13vEn3ccsfmEKk/giphy.gif" alt="Star Wars Hyperspace" width="700" />
+<img src="./assets/star-wars-banner.gif" alt="Star Wars" width="700" />
 
 <br /><br />
 
@@ -84,7 +84,7 @@ QA  →  Cypress  →  Automação E2E  →  Validação de fluxos  →  Deploy 
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/UOzeotiOiLKoU/giphy.gif" alt="Darth Vader" width="200" />
+<img src="./assets/star-wars-footer.gif" alt="Star Wars Lightsaber" width="200" />
 
 *"Testar não é só encontrar bugs — é garantir que o produto entrega o que promete."*  
 *"Que a Força esteja com você."* ⚔️
