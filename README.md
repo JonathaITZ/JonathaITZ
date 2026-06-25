@@ -9,7 +9,7 @@
 Desenvolvedor focado em qualidade de software e experiências web de alta performance.  
 Uno design limpo com código confiável — do teste automatizado ao produto final.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-Ultimo--portifolio-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonathaITZ/Ultimo-portifolio)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Abrir_Site-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://ultimo-portifolio.vercel.app)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11D7m-Ud1K5ti5qkpV5xEtcR9O0hXGSAL/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-dantas)
 
