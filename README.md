@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/yY5cvK8j/IMG-20260422-220609.jpg" alt="Jonatha Dantas" width="160" style="border-radius: 50%; border: 4px solid #22d3ee;" />
-
 # Olá, eu sou o Dantas 👋
 
 **QA · Automação de Testes · Quality Assurance**
@@ -11,7 +9,6 @@ Transformo cenários reais de uso em automações que validam fluxos, reduzem ri
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Abrir_Site-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://ultimo-portifolio.vercel.app)
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11D7m-Ud1K5ti5qkpV5xEtcR9O0hXGSAL/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-dantas)
 
 📍 João Pessoa, PB · 💼 Softcom Tecnologia
 
@@ -28,7 +25,7 @@ Venho estudando e praticando **automação de testes E2E**, **testes funcionais*
 - 🌱 Em constante aprendizado sobre **automação**, **Python** e **Selenium**
 - 💼 Experiência em **suporte avançado**, o que me ajuda a entender melhor o usuário e os fluxos reais do sistema
 - 💡 Acredito que testes bem escritos economizam tempo e aumentam a confiança no deploy
-- 📫 Me encontre aqui no GitHub ou no LinkedIn
+- 📫 Me encontre na seção **Conecte-se comigo** abaixo
 
 ---
 
@@ -41,6 +38,22 @@ Venho estudando e praticando **automação de testes E2E**, **testes funcionais*
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📫 Conecte-se comigo
+
+<p align="left">
+  <a href="https://wa.me/5583996190083" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonatha-dantas-38483a1b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jonatha.dantas.2019@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
