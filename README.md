@@ -13,10 +13,11 @@
 <br /><br />
 
 <a href="https://ultimo-portifolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-Abrir_Site-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Portfólio-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
+&nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/11D7m-Ud1K5ti5qkpV5xEtcR9O0hXGSAL/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Currículo-Baixar_PDF-464646?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo" />
+  <img src="https://img.shields.io/badge/Currículo-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo" />
 </a>
 
 </div>
