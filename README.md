@@ -22,7 +22,7 @@ Atuo atualmente como **Suporte Avançado** e estou em transição para a área d
 Venho estudando e praticando **automação de testes E2E**, **testes funcionais**, **testes de API** e **validação de fluxos críticos**, transformando regras de negócio e jornadas do usuário em suítes de teste com evidências claras.
 
 - 🔭 Atualmente estudando **Cypress**, **CI/CD** e boas práticas de QA
-- 🌱 Em constante aprendizado sobre **automação**, **Python**, **Selenium** e **SQL**
+- 🌱 Em constante aprendizado sobre **automação**, **Python**, **Selenium**, **Playwright** e **SQL**
 - 💼 Experiência em **suporte avançado**, o que me ajuda a entender melhor o usuário e os fluxos reais do sistema
 - 💡 Acredito que testes bem escritos economizam tempo e aumentam a confiança no deploy
 - 📫 Me encontre na seção **Conecte-se comigo** abaixo
@@ -34,6 +34,7 @@ Venho estudando e praticando **automação de testes E2E**, **testes funcionais*
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
