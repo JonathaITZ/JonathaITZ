@@ -78,12 +78,44 @@ Venho estudando e praticando **automação de testes E2E, testes funcionais, tes
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Repositório |
-| :--- | :--- | :---: |
-| 🌐 **Portfólio QA** | Portfólio com projetos, skills e certificações em Quality Assurance. | [Link](https://github.com/JonathaITZ/Ultimo-portifolio) |
-| 🧪 **Cypress — Sauce Demo** | Suíte E2E com login (sucesso e erro) e fluxo de carrinho no Swag Labs. | [Link](https://github.com/JonathaITZ/testes-automatizados-cypress) |
-| 🧪 **Cypress — OrangeHRM** | Fluxos de login, segurança, PIM e CRUD no ambiente demo. | [Link](https://github.com/JonathaITZ/cenario-de-teste-2) |
-| 🐍 **Automação QA — Garantia** | Teste automatizado com Python e Selenium, validação de garantia e relatório `.txt`. | [Link](https://github.com/JonathaITZ/QA_testeautomatizado) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<h4>🌐 <a href="https://github.com/JonathaITZ/Ultimo-portifolio">Portfólio QA</a></h4>
+<p>
+Portfólio com projetos, skills e certificações em Quality Assurance.
+</p>
+
+    </td>
+    <td width="50%" valign="top">
+
+<h4>🧪 <a href="https://github.com/JonathaITZ/testes-automatizados-cypress">Cypress — Sauce Demo</a></h4>
+<p>
+Suíte E2E com login (sucesso e erro) e fluxo de carrinho no Swag Labs.
+</p>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+<h4>🧪 <a href="https://github.com/JonathaITZ/cenario-de-teste-2">Cypress — OrangeHRM</a></h4>
+<p>
+Fluxos de login, segurança, PIM e CRUD no ambiente demo.
+</p>
+
+    </td>
+    <td width="50%" valign="top">
+
+<h4>🐍 <a href="https://github.com/JonathaITZ/QA_testeautomatizado">Automação QA — Garantia</a></h4>
+<p>
+Teste automatizado com Python e Selenium, validação de garantia e relatório <code>.txt</code>.
+</p>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
