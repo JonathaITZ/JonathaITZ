@@ -90,8 +90,8 @@ Venho estudando e praticando **automação de testes E2E, testes funcionais, tes
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JonathaITZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas GitHub do JonathaITZ" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaITZ&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Linguagens mais usadas pelo JonathaITZ" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonathaITZ&show_icons=true&hide_border=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117&border_radius=12&rank_icon=grade" alt="Estatísticas GitHub do JonathaITZ" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonathaITZ&layout=donut&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas&title_color=22d3ee&text_color=c9d1d9&bg_color=0d1117&border_radius=12&langs_count=6&donut=true" alt="Linguagens mais usadas pelo JonathaITZ" />
 
 <br /><br />
 
