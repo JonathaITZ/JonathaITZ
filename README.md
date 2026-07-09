@@ -81,17 +81,6 @@ Venho estudando e praticando **automação de testes E2E, testes funcionais, tes
 <div align="center">
 
 <h3>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="22" alt="HTML5" />
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="22" alt="CSS3" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" alt="JavaScript" />
-<a href="https://github.com/JonathaITZ/Ultimo-portifolio">Portfólio QA</a>
-</h3>
-
-Portfólio com projetos, skills e certificações em Quality Assurance.
-
----
-
-<h3>
 <img src="https://cdn.simpleicons.org/cypress/69D3A7" width="22" alt="Cypress" />
 <a href="https://github.com/JonathaITZ/testes-automatizados-cypress">Cypress — Sauce Demo</a>
 </h3>
