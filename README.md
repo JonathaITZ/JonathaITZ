@@ -80,25 +80,40 @@ Venho estudando e praticando **automação de testes E2E, testes funcionais, tes
 
 <div align="center">
 
-### 🌐 [Portfólio QA](https://github.com/JonathaITZ/Ultimo-portifolio)
+<h3>
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="22" alt="HTML5" />
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="22" alt="CSS3" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="22" alt="JavaScript" />
+<a href="https://github.com/JonathaITZ/Ultimo-portifolio">Portfólio QA</a>
+</h3>
 
 Portfólio com projetos, skills e certificações em Quality Assurance.
 
 ---
 
-### 🧪 [Cypress — Sauce Demo](https://github.com/JonathaITZ/testes-automatizados-cypress)
+<h3>
+<img src="https://cdn.simpleicons.org/cypress/69D3A7" width="22" alt="Cypress" />
+<a href="https://github.com/JonathaITZ/testes-automatizados-cypress">Cypress — Sauce Demo</a>
+</h3>
 
 Suíte E2E com login (sucesso e erro) e fluxo de carrinho no Swag Labs.
 
 ---
 
-### 🧪 [Cypress — OrangeHRM](https://github.com/JonathaITZ/cenario-de-teste-2)
+<h3>
+<img src="https://cdn.simpleicons.org/cypress/69D3A7" width="22" alt="Cypress" />
+<a href="https://github.com/JonathaITZ/cenario-de-teste-2">Cypress — OrangeHRM</a>
+</h3>
 
 Fluxos de login, segurança, PIM e CRUD no ambiente demo.
 
 ---
 
-### 🐍 [Automação QA — Garantia](https://github.com/JonathaITZ/QA_testeautomatizado)
+<h3>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="22" alt="Python" />
+<img src="https://cdn.simpleicons.org/selenium/43B02A" width="22" alt="Selenium" />
+<a href="https://github.com/JonathaITZ/QA_testeautomatizado">Automação QA — Garantia</a>
+</h3>
 
 Teste automatizado com Python e Selenium, validação de garantia e relatório `.txt`.
 
