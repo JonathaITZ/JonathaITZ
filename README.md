@@ -10,15 +10,19 @@
 
 📍 João Pessoa, PB &nbsp;|&nbsp; 💼 Softcom Tecnologia
 
-<br /><br />
+<br />
 
-<a href="https://ultimo-portifolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
-</a>
-&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/11D7m-Ud1K5ti5qkpV5xEtcR9O0hXGSAL/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Currículo-0ea5e9?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo" />
-</a>
+<p>
+  <a href="https://ultimo-portifolio.vercel.app" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/22d3ee" width="18" alt="Vercel" />
+    &nbsp;<strong>Portfólio</strong>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/11D7m-Ud1K5ti5qkpV5xEtcR9O0hXGSAL/view?usp=sharing" target="_blank">
+    <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="18" alt="Google Drive" />
+    &nbsp;<strong>Currículo</strong>
+  </a>
+</p>
 
 </div>
 
