@@ -18,7 +18,7 @@
     &nbsp;<strong>Portfólio</strong>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/11D7m-Ud1K5ti5qkpV5xEtcR9O0hXGSAL/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1ogNnoWrpbI0D4IYEJj6DXWWy74pFOgn3/view?usp=drive_link" target="_blank">
     <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="18" alt="Google Drive" />
     &nbsp;<strong>Currículo</strong>
   </a>
