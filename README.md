@@ -38,8 +38,8 @@ Venho estudando e praticando **automação de testes E2E, testes funcionais, tes
 
 <br />
 
-- 🔭 Atualmente estudando **Cypress**, **CI/CD** e boas práticas de QA.
-- 🌱 Em constante aprendizado sobre **automação**, **Python**, **Selenium**, **Playwright** e **SQL**.
+- 🔭 Atualmente aprofundando em **Playwright (Testes de API e E2E)**, **TypeScript**, **CI/CD** e boas práticas de QA.
+- 🌱 Em constante aprendizado sobre **automação de testes**, **Playwright**, **Cypress**, **Python**, **Selenium** e **SQL**.
 - 💼 Experiência em **suporte avançado**, o que me ajuda a entender melhor o usuário e os fluxos reais do sistema.
 - 💡 Acredito que testes bem escritos economizam tempo e aumentam a confiança no deploy.
 
@@ -48,9 +48,10 @@ Venho estudando e praticando **automação de testes E2E, testes funcionais, tes
 ## 🛠️ Stack Tecnológica
 
 <p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -83,6 +84,16 @@ Venho estudando e praticando **automação de testes E2E, testes funcionais, tes
 ## 🚀 Projetos em Destaque
 
 <div align="center">
+
+<h3>
+<img src="https://cdn.simpleicons.org/playwright/2EAD33" width="22" alt="Playwright" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="22" alt="TypeScript" />
+<a href="https://github.com/JonathaITZ/teste-automatizado-api-vtx">Playwright — Testes de API REST & Faker (Plataforma VTX)</a>
+</h3>
+
+Suíte avançada de testes automatizados de API com massa dinâmica (`@faker-js/faker`), validação de segurança (Rate Limit e brute-force), gestão multi-tenant de clientes e teardown inteligente via JSON Store.
+
+---
 
 <h3>
 <img src="https://cdn.simpleicons.org/cypress/69D3A7" width="22" alt="Cypress" />
